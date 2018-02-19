@@ -10,50 +10,50 @@ This exercise can be tested in two ways.
     - Using the sample input grid given in JPMC exercise
     - Using the grid of 10 X 20 with values generated randomly.
     
-   For example, the console output would be
-   Enter t for testing JPMC test input or Enter r for testing random input:(t/r)
-    t
-    Setting the grid size 6 x 8 
-    ......O.
-    OOO...O.
-    ......O.
-    ........
-    ...OO...
-    ...OO...
-    Do you want to see the next state? y/n
-    y
-    .O......
-    .O...OOO
-    .O......
-    ........
-    ...OO...
-    ...OO...
+   For example, the console output would be as below. </br>
+   Enter t for testing JPMC test input or Enter r for testing random input:(t/r) </br>
+    t </br>
+    Setting the grid size 6 x 8 </br>
+    ......O. </br>
+    OOO...O. </br>
+    ......O. </br>
+    ........ </br>
+    ...OO... </br>
+    ...OO... </br>
+    Do you want to see the next state? y/n </br>
+    y </br>
+    .O...... </br>
+    .O...OOO </br>
+    .O...... </br>
+    ........ </br>
+    ...OO... </br>
+    ...OO... </br>
     
-    Enter t for testing JPMC test input or Enter r for testing random input:(t/r)
-    r
-    Setting the grid size 10 x 20 
-    OO.OOO.O.OOOOOOO.O..
-    O.....OOOOOO.....OO.
-    O..O.O.O.O.OOO.OO..O
-    ..OO.OOOO.O...OO....
-    OOOO..OO..O..O.OOOOO
-    .O.OO.O.O.O.O.OOO.O.
-    .O..OOOO..OO.OO..OOO
-    OO.......O.......OO.
-    OOOO....OO.OO..O....
-    O..OO.OO.......OO..O
-    Do you want to see the next state? y/n
-    y
-    OO..OO.O....OOO.OOO.
-    O.OO.............OO.
-    .OOO.O......OO.OOOO.
-    O....O....O........O
-    O.........O..O....OO
-    ........O.O.O.......
-    .O.OO.OOO.OOOOO....O
-    ...OOOOO.O...OO.OO.O
-    ...OO..OOOO....O.OO.
-    O..OO..OO......OO...
-    Do you want to see the next state? y/n
-    n
-    Game Over
+    Enter t for testing JPMC test input or Enter r for testing random input:(t/r) </br>
+    r </br>
+    Setting the grid size 10 x 20 </br>
+    OO.OOO.O.OOOOOOO.O.. </br>
+    O.....OOOOOO.....OO. </br>
+    O..O.O.O.O.OOO.OO..O </br>
+    ..OO.OOOO.O...OO.... </br>
+    OOOO..OO..O..O.OOOOO </br>
+    .O.OO.O.O.O.O.OOO.O. </br>
+    .O..OOOO..OO.OO..OOO </br>
+    OO.......O.......OO. </br>
+    OOOO....OO.OO..O.... </br>
+    O..OO.OO.......OO..O </br>
+    Do you want to see the next state? y/n </br>
+    y </br>
+    OO..OO.O....OOO.OOO. </br>
+    O.OO.............OO. </br>
+    .OOO.O......OO.OOOO. </br>
+    O....O....O........O </br>
+    O.........O..O....OO </br>
+    ........O.O.O....... </br>
+    .O.OO.OOO.OOOOO....O </br>
+    ...OOOOO.O...OO.OO.O </br>
+    ...OO..OOOO....O.OO. </br>
+    O..OO..OO......OO... </br>
+    Do you want to see the next state? y/n </br>
+    n </br>
+    Game Over </br>
