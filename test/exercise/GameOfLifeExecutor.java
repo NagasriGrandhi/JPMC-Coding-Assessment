@@ -46,14 +46,6 @@ public class GameOfLifeExecutor {
         while(ch.equals("y") || ch.equals("Y")) {
             inputGrid = conwaysGameOfLife.findNextState(inputGrid);
             display2D(inputGrid);
-
-            System.out.println("Ctrl+Z to stop.");
-            try {
-                Thread.sleep(100);
-            }
-            catch(Exception e) {
-                e.printStackTrace();
-            }
             System.out.println("Do you want to see the next state? y/n");
             ch = s.nextLine();
         }

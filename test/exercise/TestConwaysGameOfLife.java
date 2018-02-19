@@ -24,4 +24,11 @@ public class TestConwaysGameOfLife {
         CellEnum[][] outputGrid = conwaysGameOfLife.findNextState(inputGrid);
         Assert.assertArrayEquals(CellEnumTestUtil.getExpectedGrid(), outputGrid);
     }
+
+    @Test
+    public void findNextStateWithOutputAsInput() {
+        CellEnum[][] inputGrid = CellEnumTestUtil.getExpectedGrid();
+        CellEnum[][] outputGrid = conwaysGameOfLife.findNextState(inputGrid);
+        Assert.assertArrayEquals(CellEnumTestUtil.createInputGrid(), outputGrid);
+    }
 }
