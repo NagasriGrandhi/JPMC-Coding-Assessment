@@ -14,20 +14,20 @@ This exercise can be tested in two ways.
    Enter t for testing JPMC test input or Enter r for testing random input:(t/r) </br>
     t </br>
     Setting the grid size 6 x 8 </br>
-    . . . . . . O. </br>
-    OOO . . . O . </br>
-    . . . . . . O. </br>
+    . . . . . .O. </br>
+    OOO. . .O. </br>
+    . . . . . .O. </br>
     . . . . . . . .  </br>
-    . . . OO . . . </br>
-    . . . OO . . . </br>
+    . . .OO. . . </br>
+    . . .OO. . . </br>
     Do you want to see the next state? y/n </br>
     y </br>
-    . O . . . . . .  </br>
-    . O . . . OOO </br>
-    . O . . . . . .  </br>
+    .O. . . . . .  </br>
+    .O. . .OOO </br>
+    .O . . . . . .  </br>
     . . . . . . . .  </br>
-    . . . OO . . . </br>
-    . . . OO . . . </br> 
+    . . .OO. . . </br>
+    . . .OO. . . </br> 
     Do you want to see the next state? y/n </br>
     n </br>
     Game Over </br>
